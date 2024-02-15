@@ -1,0 +1,10 @@
+METHODOLOGY:
+
+1.Connect components according to our project.
+2.Write program in Arduino IDE
+3.Collect Biometric Data (Fingerprint) using specialized devices.
+4.Use NodeMCU to process and manage the collected biometric data.
+5.Store attendance records and user information in Google sheet.
+6.Set up connections using the Internet of Things (IoT) for real-time data transmission.
+7.Build a user-friendly online dashboard for easy attendance management by administrators.
+8.Continuously monitor system performance and implement updates for improvements.
